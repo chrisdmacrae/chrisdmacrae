@@ -23,7 +23,7 @@ technical project manager, and scrum master (for better or for worse).
 
 ## Location
 
-![]()
+![Morell Area](./_image-3.heif)
 
 I live and work from beautiful, seaside, Morell, Prince Edward Island in Eastern Canada.
 
