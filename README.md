@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**chrisdmacrae/chrisdmacrae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm Chris. I'm a designer, full stack developer, [writer](/articles), father and husband.
 
-Here are some ideas to get you started:
+I work at [Careguide](https://careguide.com), where I am the lead engineer, 
+leading a team of 8 developers and 2 designers, helping care providers connect
+with families to bring care to the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Background
+
+I've been working in tech since 2013. I started my career as a designer, graduating with an
+associates diploma in interdiscplinary design.
+
+I spent two years working in marketing as a brand designer. Then I spent two years as a product designer
+working exclusively on mobile apps. After that I spent roughly two years running my own business offering branding,
+search engine optimization, and inbound marketing services, which I then closed shop on and handed off
+all of my clients.
+
+I've spent the last four years working as a fullstack developer. I've gotten to work as a team lead,
+technical project manager, and scrum master (for better or for worse). 
+
+## Location
+
+![]()
+
+I live and work from beautiful, seaside, Morell, Prince Edward Island in Eastern Canada.
+
+## Links
+
+- [Twitter, @chrisdmacrae](https://chrisdmacrae.com/twitter)
+- [Github, @chrisdmacrae](https://github.com/chrisdmacrae)
+- [LinkedIn: @chrisdmacrae](https://www.linkedin.com/in/chrisdmacrae/)
